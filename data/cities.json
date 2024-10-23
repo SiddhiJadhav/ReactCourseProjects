@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "9d8e",
+      "cityName": "Alness",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-10-21T19:48:32.096Z",
+      "notes": "Sfadsfg",
+      "position": {
+        "lat": "57.82135503542938",
+        "lng": "-4.482421875000001"
+      }
+    },
+    {
+      "id": "ddbb",
+      "cityName": "Alness",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-10-21T19:48:32.096Z",
+      "notes": "Sfadsfg",
+      "position": {
+        "lat": "57.82135503542938",
+        "lng": "-4.482421875000001"
+      }
+    },
+    {
+      "id": "f725",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-22T20:11:12.293Z",
+      "notes": "dcghzdh",
+      "position": {
+        "lat": "40.01538876669936",
+        "lng": "0.013217926025390627"
+      }
+    }
+  ]
+}
